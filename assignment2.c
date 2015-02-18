@@ -1,35 +1,4 @@
-/*=============================================================================
- |    File Name:  assignment1.c [in which directory on what computer]
- |
- |       Author:  Amanda Bittinger - abitting@uark.edu
- |     Language:  ANSI C (tested using gcc on turing [might list version infor])
- |   To Compile:  gcc -Wall assignment1.c
- |
- |        Class:  CSCE3613 [needed only for school work]
- |      Project:  [if it is part of larger software]
- |   Assumption:  [any prerequisite or precondition that must be met]
- | Date Created:  2-10-2015
- |     Modified:  2-10-2015
- |
- +-----------------------------------------------------------------------------
- |
- |  Description:  A simple c program that takes command line arguments and
- |                  lists what they are
- |
- |	  Input:  No input (either from the keyboard or from a file) is
- |		required by this program.
- |
- |	 Output:  Lists the different types of commands passed to the program
- |
- |    Algorithm:  A simple while loop in the parse_commands function.
- |
- |  Required Features Not Included:  The program adheres to all
- |		requirements stated in the program assignment, and all
- |		required features are included.
- |
- |   Known Bugs:  There are no known bugs remaining in this program.
- |
- +===========================================================================*/
+
 
 #include <stdio.h>
 // needed for string library
